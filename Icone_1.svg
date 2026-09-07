@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="5.8206959mm"
+   height="5.8214474mm"
+   viewBox="0 0 5.8206959 5.8214474"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1"
+     transform="translate(-53.041738,-40.208619)">
+    <ellipse
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.103732;stroke-linejoin:bevel;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1"
+       cx="55.952084"
+       cy="43.119339"
+       rx="2.8584831"
+       ry="2.8588574" />
+    <text
+       xml:space="preserve"
+       style="font-size:0.81321px;line-height:1.2;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.103156;stroke-linejoin:bevel;stroke-dasharray:0.309469, 0.309469;stroke-opacity:1"
+       x="54.783531"
+       y="44.450871"
+       id="text1"><tspan
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.65945px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.103156;stroke-opacity:1"
+         x="54.783531"
+         y="44.450871">1</tspan></text>
+  </g>
+</svg>
